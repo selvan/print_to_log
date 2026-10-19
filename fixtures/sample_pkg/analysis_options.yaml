@@ -1,0 +1,7 @@
+linter:
+  rules:
+    - directives_ordering
+    - always_declare_return_types
+    - prefer_final_fields
+    - unnecessary_lambdas
+    - avoid_print

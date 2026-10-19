@@ -1,0 +1,4 @@
+linter:
+  rules:
+    - directives_ordering
+    - avoid_print

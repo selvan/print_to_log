@@ -1,0 +1,5 @@
+# Sample packages used by the tests; not part of the published package.
+fixtures/
+.dart_tool/
+build/
+pubspec.lock

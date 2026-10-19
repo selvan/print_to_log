@@ -1,0 +1,13 @@
+name: partially_migrated_pkg
+description: Fixture for print_to_log where some loggers already exist.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  logging: ^1.3.0
